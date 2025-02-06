@@ -1,0 +1,2481 @@
+The Project Gutenberg EBook of Studies of Birds Killed in Nocturnal
+Migration, by Harrison B. Tordoff and Robert M. Mengel
+
+This eBook is for the use of anyone anywhere in the United States and most
+other parts of the world at no cost and with almost no restrictions
+whatsoever.  You may copy it, give it away or re-use it under the terms of
+the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org.  If you are not located in the United States, you'll have
+to check the laws of the country where you are located before using this ebook.
+
+
+
+Title: Studies of Birds Killed in Nocturnal Migration
+
+Author: Harrison B. Tordoff
+        Robert M. Mengel
+
+Release Date: June 20, 2016 [EBook #52382]
+
+Language: English
+
+Character set encoding: ISO-8859-1
+
+*** START OF THIS PROJECT GUTENBERG EBOOK STUDIES OF BIRDS ***
+
+
+
+
+Produced by Judith Wirawan, Chris Curnow, Joseph Cooper
+and the Online Distributed Proofreading Team at
+http://www.pgdp.net
+
+
+
+
+
+
+
+
+
+
+ UNIVERSITY OF KANSAS PUBLICATIONS
+ MUSEUM OF NATURAL HISTORY
+
+
+ Volume 10, No. 1, pp. 1-44, 6 figures in text, 2 tables
+
+ September 12, 1956
+
+
+ Studies of Birds
+ Killed in Nocturnal Migration
+
+
+ BY
+ HARRISON B. TORDOFF AND ROBERT M. MENGEL
+
+
+ UNIVERSITY OF KANSAS
+ LAWRENCE
+ 1956
+
+       *       *       *       *       *
+
+ UNIVERSITY OF KANSAS PUBLICATIONS, MUSEUM OF NATURAL HISTORY
+
+ Editors: E. Raymond Hall, Chairman, A. Byron Leonard,
+ Robert W. Wilson
+
+
+ Volume 10, No. 1, pp. 1-44, 6 figures in text, 2 tables
+ Published September 12, 1956
+
+
+ UNIVERSITY OF KANSAS
+ Lawrence, Kansas
+
+
+ PRINTED BY
+ FERD VOILAND, JR., STATE PRINTER
+ TOPEKA, KANSAS
+ 1956
+
+ [Illustration: Logo]
+
+ 26-3856
+
+
+       *       *       *       *       *
+
+Studies of Birds Killed in Nocturnal Migration
+
+BY HARRISON B. TORDOFF AND ROBERT M. MENGEL
+
+
+
+
+Contents
+
+
+                                                      PAGE
+
+ Introduction                                            4
+
+ Accidents to Migrating Birds in early October, 1954     6
+   General                                               6
+   Accidents at Topeka, Kansas                           6
+   Description of WIBW-TV tower                          7
+   Weather conditions                                    7
+
+ Acknowledgments                                         7
+
+ Notes on the Species Killed at Topeka                   8
+
+ Randomness of the Sample                               17
+
+ Number of Migrants                                     18
+
+ Differential Migration of Sex- and Age-classes         20
+   History of the subject                               20
+   Differential migration of sex- and age-classes as
+     shown by the Topeka sample                         23
+
+ Molt in Relation to Migration                          29
+   General comment                                      29
+   Molt in the Topeka sample                            30
+
+ Size Differences according to Sex and Age              31
+   Linear measurements                                  31
+   Weights                                              32
+
+ Computations of Longevity and Survival                 38
+
+ Processing of Samples                                  38
+
+ Summary                                                39
+
+ Literature Cited                                       41
+
+
+
+
+
+Introduction
+
+
+This paper is primarily an analysis of a sample of migrant birds
+killed in the autumn of 1954 by striking a television tower one mile
+west of Topeka, Shawnee County, Kansas. Secondarily, some aspects of
+migration involved in studies of this kind are discussed and
+historical background is presented.
+
+Considerable interest has been occasioned in recent years in the
+eastern United States by large-scale accidents to night-migrating
+birds. Most accidents have occurred in the autumn. The widespread
+adoption by airports of an instrument called the ceilometer, which
+measures the height of cloud ceilings by reflecting from them a
+high-powered beam of light, has proved under certain conditions to be
+catastrophic to night-flying birds. Among the recent reports of such
+accidents are those of Spofford (1949) and Laskey (1951) for
+Nashville, Tennessee, Howell and Tanner (1951) for Knoxville,
+Tennessee, and Lovell (1952) for Louisville, Kentucky. Recently
+Howell, Laskey, and Tanner (1954) reviewed ceilometer "tragedies"
+without being able to determine the exact reason for their lethal
+effectiveness. Less publicized so far have been mass collisions of
+birds with another class of obstacles, tall radio and television
+towers. These slender towers, usually 500 to 1000 feet tall, are
+increasing rapidly in numbers and there is reason to suppose that they
+will take a correspondingly larger toll of bird life.
+
+Notice has long been given by ornithologists to mass destruction of
+birds by more conventional solid obstructions to passage, and
+newspapers occasionally mention birds killed at such well-known points
+as the Washington Monument and the Empire State Building.
+
+Seventy-five years ago, J. A. Allen (1880) published the results of
+questionnaires circulated by William Brewster to lighthouse keepers.
+Brewster himself (1886) described destruction of birds at a lighthouse
+in the Bay of Fundy, paying keen attention to behavior of the birds
+and the exact conditions under which nocturnal flight and accidents
+occurred. The subject also received attention in several countries
+across the Atlantic. Destruction of birds at Irish lighthouses was
+carefully noted over a period of years and the results were published
+periodically, culminating in R. M. Barrington's massive report (1900)
+which remains in some ways the most thorough of its type.
+
+While conservation-minded individuals have been concerned with the
+tremendous mortality involved in these various events, the ill wind
+blows some good in that, properly used, the data provided by such
+accidents can shed light on many obscure aspects of bird migration.
+Each accidental kill of birds affords a cross-section, approaching in
+variable degree a random sample, of the migrants passing a given point
+on a given date. The types of information provided by such kills are
+numerous, for example: (1) information on the presence of various
+species and the dates of their occurrence; (2) information on the
+relative abundance of species; (3) quantitative data on the relative
+sizes of males and females, and immatures and adults (of importance to
+taxonomic ornithology); (4) information on the relative times of
+migration of males, females, adults, and young; (5) information on
+molts and plumages; (6) quantitative information on composition by
+subspecies of migrants of the same species; (7) physiological data
+(fat condition, _etc._) pertinent to the study of migration; and
+probably others.
+
+In spite of the great potential of this kind of material, the majority
+of ornithologists with access to such data have contented themselves
+with listing the species and sometimes the numbers of birds killed. A
+few have gone further. James T. Tanner (unpublished) attempted to
+compute the longevity of the Ovenbird (_Seiurus aurocapillus_) by
+analysis of ceilometer-killed birds at Knoxville, Tennessee (see
+below). Mention should be made of the reports of Rintoul and Baxter
+(1914) supplemented by Ticehurst (1916) who used rather small numbers
+of birds killed at Scottish lighthouses in studies of molt. However,
+the only effort to utilize the results of accidental kills on a large
+scale over a period of years appears to have been that, already
+mentioned, of Barrington (1900) and his co-workers in Ireland. An idea
+of the potentialities of the large recent kills in the United States
+may be obtained when it is recalled that in the 18 years of
+Barrington's work, which embodied some 1000 reports from lighthouse
+keepers, Barrington obtained for study only about 2000 specimens, many
+of these consisting of wings and feet only (Barrington's paper not
+seen in original; see J. A. Allen, 1901:205). More recently Dobben and
+Bruyns (1939) have analyzed the age and sex classes of some birds
+killed at lighthouses in Holland.
+
+As far as we have learned, there is no previous thorough analysis in
+the literature of large, accidentally-killed samples of birds. On the
+following pages we emphasize some of the uses which can be made of
+such material. We think that intensive analyses of such events,
+whenever they occur, should become a regular part of ornithological
+investigation and that integration of numerous studies of such
+incidents will provide an unprecedented mass of information on
+migration.
+
+
+
+
+Accidents to Migrating Birds in early October, 1954
+
+
+GENERAL.--The few days around the end of the first week of October,
+1954, were notable for a series of accidents which occurred to
+migrating birds over much of eastern United States. So far as we know,
+these were all associated with an extensive belt of bad weather (cold
+fronts and stationary fronts) which covered much of the country during
+that period, and the accidents involved ceilometers and solid
+structures alike. Accidents known to us occurred as far south as
+Macon, Georgia (David W. Johnston, letter: Nov. 1, 1954), as far north
+as New York City, where many migrants were killed at the Empire State
+Building (_New York Times_, Thursday, October 7, 1954, p. 1) and
+elsewhere, and as far west as Smoky Hill Air Force Base at Salina,
+Kansas (ceilometer, October 7, some birds received at the University
+of Kansas). Some of the above, and incidents from a number of other
+localities, were mentioned in varying detail in _Audubon Field Notes_
+(vol. 9, no. 1, pp. 6, 10, 15, 17, 18, 32, February, 1955). Still
+other accidents occurred at Columbia, Missouri (Richard P.
+Grossenheider, verbal communication), and Topeka, Kansas (present
+paper). Some probably have escaped our notice; summaries of some of
+these will probably appear in ornithological journals for some time to
+come. At Robins Air Force Base near Macon, Georgia, at least 50,000
+birds were killed, of which about 2500, representing 54 species, were
+picked up (Johnston, _loc. cit._).
+
+
+ACCIDENTS AT TOPEKA, KANSAS.--At Topeka, Shawnee County, Kansas, all
+birds were killed by collision with the newly-erected (1954)
+television transmitting tower of station WIBW-TV. This tower is one
+mile west of the city.
+
+The first casualties (see Table 1 for all others) were a Sora
+(_Porzana carolina_) and a Yellow-bellied Flycatcher (_Empidonax
+flaviventris_) found on September 7. The major accidents, however,
+occurred on the nights of September 24-25, September 30-October 1,
+October 5-6, and October 6-7. Totals of birds picked up (probably over
+95 per cent of birds killed) are given in Table 1, in which each date
+given is that of the day after the kill, _i. e._, the date on which
+the birds were collected.
+
+All major kills occurred on cloudy and foggy nights associated with
+frontal weather. Throughout the period a few birds struck the tower
+even on fairly clear nights, and minor but appreciable "falls"
+occurred on the nights of October 4-5, 7-8, and 22-23. A few birds
+killed probably were overlooked for a time and found their way into
+later samples. This is especially probable in the case of some birds
+entered under date of October 23, as many of these were somewhat
+desiccated. Weights clearly altered by desiccation or mutilation were
+not recorded. Reports of these accidents have been published by Carson
+(1954 a, b, and c).
+
+According to Carson (1954c:27), the majority of birds killed on nights
+of heavy flight fell "between three and four o'clock in the morning
+when skies were overcast and a cool front moved in from the north. Due
+to the cooperation of the watchmen it is thought that most of the
+birds that were killed were recovered. Of course some injured birds in
+hiding were not found and some were lost to predators."
+
+
+DESCRIPTION OF WIBW-TV TOWER.--The tower is 950 feet tall and stands
+on a hill approximately 1000 feet above sea level. The fact that the
+tower is on a hill places the top of the tower at 1010 feet above the
+elevation of the average local terrain. The tower is triangular in
+cross-section, each face seven feet wide, and is constructed of
+six-inch steel L-beams with three-inch cross-members every seven feet
+and smaller diagonal cross-members. It has no taper and bears a
+transmitting antenna on the top. The tower is supported by 12 guy
+wires, 3 wires attaching at each of 4 levels. The cables extend south,
+WNW, and NNE from the tower and are 1-1/2 inches in diameter. The
+tower is lighted by a series of red lights, some flashing and others
+steady. The transmitter was not in operation when the accidents took
+place.
+
+
+WEATHER CONDITIONS.--All major kills at Topeka occurred when migrating
+birds encountered either a cold front or a stationary front lying over
+eastern Kansas. Typically, this frontal weather included rain, fog,
+and cloud ceilings down to as low as 800 to 1000 feet. Weather of this
+type presumably forces the migrating birds to fly below the cloud
+ceiling and thus brings them within the altitudinal range of the
+television towers.
+
+
+
+
+Acknowledgments
+
+
+We gratefully acknowledge our debt to the Topeka Audubon Society for
+making this study possible by carefully collecting birds killed at the
+television tower. L. B. Carson deserves special mention for his
+general supervision of the bird collecting by the members of the
+Topeka Audubon Society. Members of the Society and others who picked
+up birds under the television tower were: Mrs. Lloyd Biggs, Elaine
+Carson, L. B. Carson, Jesse A. Eddy, Elizabeth Fisher, Mrs. Walter
+Huxman, Florence McKinney, Mrs. Charles Martin, Mrs. Fred P. Martin,
+T. W. Nelson, Fred Prebble, Grace Prebble, Orville Rice, Mrs. G.
+Warren Scholl, E. W. Senne, and Beatrice Swenson.
+
+We received equally important assistance from students and staff of
+the University of Kansas in recording of data and preparation of
+specimens. The following helped in these ways: Rollin H. Baker, R. W.
+Dickerman, David L. Hardy, J. W. Hardy, Jane S. Mengel, Larry D.
+Mosby, Richard Van Gelder, South G. Van Hoose, and Glen E. Woolfenden.
+We are indebted to the Interlibrary Loan Service of the University of
+Kansas Library for help in securing certain reference works. Robert
+Sokal of the University of Kansas gave helpful advice concerning
+statistical procedures.
+
+
+
+
+Notes on the Species Killed at Topeka
+
+
+A list of numbers and kinds of birds killed is given in Table 1.
+Discussion of data afforded by certain species for which, large
+samples were available will be found below. There are additionally
+certain data afforded by the sample and certain comments to be made on
+various species which can be handled most conveniently in an annotated
+list. In this list we have included all weight data (still scarce for
+many North American birds), comments on status in Kansas of various
+species, results of comparisons to determine subspecies, and
+miscellaneous observations. Weights of birds are given in grams and
+were taken on a triple-beam balance. Fat condition is given in the
+scale proposed by McCabe (1943:556). Weight data from birds migrating
+at night should be especially useful because these migrants all have
+relatively empty crops and stomachs, thus reducing variability. Not
+all birds were suitable for weighing and measuring, for a variety of
+reasons. This accounts for discrepancies in totals between Table 1 and
+the annotated list.
+
+All passerine species were aged by noting the degree of ossification
+of the skull. In no case, of the more than a thousand passerines aged
+by examination of the skull, did we find difficulty in determining
+whether an individual was a bird of the year or an adult. We found no
+specimens in which ossification of the skull was nearing completion.
+In the several species in our sample with distinctive first-winter
+plumages, we found complete agreement in age as shown by plumage and
+by condition of the skull. We think this is further proof, if such is
+needed, that this method of aging is thoroughly reliable in early
+autumn for the passerine species included in our sample and for others
+with similar breeding seasons.
+
+TABLE 1.--BIRDS KILLED AT A TELEVISION TOWER AT TOPEKA, KANSAS, IN
+1954
+
+See annotated list for division into sex- and age-classes. Where
+discrepancies exist between totals given here and totals given in the
+annotated list, these result from the fact that some specimens could
+not be sexed and aged.
+
+ A: Sept. 25
+ B: Oct. 1
+ C: Oct. 3
+ D: Oct. 4
+ E: Oct. 5
+ F: Oct. 6
+ G: Oct. 7
+ H: Oct. 8
+ I: Oct. 9
+ J: Oct. 10
+ K: Oct. 23
+ L: Totals
+
+ =======================+===+===+===+===+===+===+===+===+===+===+===+====
+                        | A | B | C | D | E | F | G | H | I | J | K |  L
+ -----------------------+---+---+---+---+---+---+---+---+---+---+---+----
+ Pied-billed Grebe      |   |  1|   |   |   |  1|   |   |  1|   |   |   3
+ Green Heron            |   |   |   |   |   |  1|   |   |   |   |   |   1
+ Blue-winged Teal       |   |  1|   |   |   |  1|  6|   |   |   |   |   8
+ Virginia Rail          |   |  3|   |   |   |  1|   |   |   |   |   |   4
+ Sora                   |  1|  6|   |   |   |  1|  1|  1|   |   |   |  10
+ American Coot          |   |   |   |   |   |  3|   |   |   |   |   |   3
+ Mourning Dove          |   |  8|   |   |  1|   |   |   |   |   |  1|  10
+ Yellow-billed Cuckoo   |   |   |   |   |   |  1|   |   |   |   |   |   1
+ Black-billed Cuckoo    |   |   |   |   |   |   |  1|   |   |   |   |   1
+ Yellow-shafted Flicker |  3|   |   |   |   |   |   |   |   |   |   |   3
+ Yellow-bellied         |   |   |   |   |   |   |   |   |   |   |   |
+   Flycatcher           |   |   |   |   |   |   |  1|   |   |   |   |   1
+ House Wren             |  2|  3|   |   |   |  1|  2|  1|   |   |  1|  10
+ Long-billed Marsh Wren |   |  1|   |   |   |  1|  1|   |   |   |   |   3
+ Short-billed Marsh Wren|  1|  2|   |   |   |   |  1|   |   |   |   |   4
+ Catbird                |  1| 28|  1|   |  1|  6|  6|   |   |   |   |  43
+ Brown Thrasher         |   |  1|   |   |   |  1|   |  1|   |   |   |   3
+ Wood Thrush            |   |  3|   |   |   |   |   |   |   |   |   |   3
+ Hermit Thrush          |   |   |   |   |   |   |   |   |   |  1|   |   1
+ Olive-backed Thrush    |   | 14|   |  1|   |   |  1|   |   |   |   |  16
+ Golden-crowned Kinglet |   |   |   |   |   |   |   |   |   |  1|  5|   6
+ Ruby-crowned Kinglet   |  2|  1|   |   |   |   |  8|  1|  1|   |  1|  14
+ Yellow-throated Vireo  |   |  1|   |   |   |   |   |   |   |   |   |   1
+ Blue-headed Vireo      |  1| 19|   |  1|  2|  5|  8|  3|  1|   |   |  40
+ Red-eyed Vireo         | 18| 36|   |   |  2| 13|  2|  3|   |   |  1|  75
+ Philadelphia Vireo     |  3|  9|   |   |   |   |   |   |   |   |   |  12
+ Warbling Vireo         |  8| 19|  1|   |  4|  1|  1|   |   |   |   |  34
+ Black and White Warbler|  1|  1|   |   |   |  3|   |   |   |   |   |   5
+ Tennessee Warbler      |   |  1|   |   |  1|  2|  1|   |   |   |   |   5
+ Orange-crowned Warbler |  7| 14|   |   |  1|  4| 19|  5|  1|  1|   |  52
+ Nashville Warbler      |  7| 94|  4|   |  3| 39| 27|  5|   |  1|  1| 181
+ Parula Warbler         |   |   |   |   |   |   |  1|   |  1|   |   |   2
+ Yellow Warbler         |  3|  3|   |   |   |  1|  1|   |   |   |   |   8
+ Magnolia Warbler       |   |  1|   |   |   |  2|   |   |   |   |   |   3
+ Black-throated Blue    |   |   |   |   |   |   |   |   |   |   |   |
+   Warbler              |   |   |   |   |   |   |  2|   |   |   |  1|   3
+ Myrtle Warbler         |   |   |   |   |   |   |   |   |  1|   |   |   1
+ Black-throated Green   |   |   |   |   |   |   |   |   |   |   |   |
+   Warbler              |   |   |   |   |   |   |   |   |   |  1|   |   1
+ Chestnut-sided Warbler |   |  1|   |   |   |   |   |   |  1|   |   |   2
+ Bay-breasted Warbler   |  1|   |   |   |   |  2|   |   |   |   |   |   3
+ Palm Warbler           |  3|   |   |   |   |   |   |   |   |   |  1|   4
+ Oven-bird              |  4| 21|   |   |   |  2|  3|  1|   |   |  1|  32
+ Northern Water-thrush  |   |  5|   |   |   |   |   |   |   |  1|   |   6
+ Mourning Warbler       | 15| 64|   |   |  2| 11|  2|  1|   |   |   |  95
+ Yellow-throat          | 10|115|  2|   |  4| 25| 18|  1|  1|   |   | 176
+ Yellow-breasted Chat   |   |  1|   |   |   |   |   |   |   |   |   |   1
+ Wilson Warbler         |  1|  2|   |   |   |   |   |   |   |   |   |   3
+ Canada Warbler         |   |  2|   |   |   |   |   |   |   |   |   |   2
+ American Redstart      |  1|   |   |   |   |   |   |   |   |   |   |   1
+ Bobolink               |   |  4|   |   |   |   |   |   |   |   |   |   4
+ Rose-breasted Grosbeak |   |  2|   |   |   |   |   |   |   |   |   |   2
+ Indigo Bunting         |   |  1|   |   |  2|  3|  1|   |   |   |   |   7
+ Dickcissel             |   | 31|   |   |  1|  3|  1|   |   |   |   |  36
+ Savannah Sparrow       |  1|  6|   |  1|   |  1|  5|  1|   |   |  1|  16
+ Grasshopper Sparrow    |   |  7|   |   |  2|  3|  3|  1|  1|   |  1|  18
+ Leconte Sparrow        |   |   |   |   |   |   |   |   |   |   |  3|   3
+ Sharp-tailed Sparrow   |   |   |   |   |   |  1|  1|   |   |  1|   |   3
+ Slate-colored Junco    |   |   |   |   |   |   |   |   |   |   |  1|   1
+ Clay-colored Sparrow   |   | 11|  1|   |   |  2|   |  1|   |   |   |  15
+ Fox Sparrow            |   |   |   |   |   |   |   |   |   |   |  1|   1
+ Lincoln Sparrow        | 41|  7|   |   |  5| 22|  3|  1|   |   |  3|  82
+ Swamp Sparrow          |   |  1|   |   |   |  1|  2|   |   |   |   |   4
+ Song Sparrow           |   |   |   |   |   |   |   |   |   |   |  2|   2
+ Total--species         | 22| 41|  6|  3| 13| 31| 29| 16| 10|  8| 15|  61
+ Total--individuals     | 94|585| 16|  3| 26|146|147| 31| 10|  8| 24|1090
+ ------------------------------------------------------------------------
+
+The annotated list may be consulted for further data in connection
+with the species listed in Table 1. As is indicated below, we regard
+the figures of this sample as unreliable to an unknown degree in
+comparing the relative abundance of one species with another.
+Accumulation of such data from various localities, however, should
+prove useful in another type of comparison. Samples of the same
+species killed in the same way at about the same time at different
+localities should be directly comparable. Eventually, this should
+provide us with a means of determining relative abundance of a species
+in different parts of its migratory route.
+
+Approximately 200 of the most interesting specimens were preserved as
+study skins and are in the University of Kansas Museum of Natural
+History. An effort was made to preserve at least one of each species,
+and we fell only a few short of this goal. All of the forms rare in
+Kansas are represented by skins. We could see no reason to list the
+preserved specimens in detail here. Species of which no study skins
+were made, however, are so marked.
+
+So far as we can tell, no truly western subspecies (from west of the
+Great Plains) occurred in the Topeka sample. Probably most or all of
+the birds came from areas more or less directly north of eastern
+Kansas.
+
+In critical areas where different subspecies of the same species occur
+together in migration, data from samples of this kind should prove
+enlightening. In future analyses, conducted in such areas, it might be
+possible to preserve all specimens of some of the variable species, or
+at least to measure all individuals of species in which size is the
+most important variable character. Quantitative study could then be
+made of the different geographic variants occurring, their proportions
+in the migrant population determined, and their origins deduced. In
+studying populations of Painted Buntings (_Passerina ciris_) wintering
+in Mexico, Storer (1951) has provided an interesting demonstration of
+methods which can be applied to such samples.
+
+A few bats killed at the tower provided a surprise. They will be
+discussed separately by Richard Van Gelder.
+
+     _Podilymbus p. podiceps._ Pied-billed Grebe.--Weights: male,
+     394.8 (all weights in grams); females, 332.5, 289.7; all
+     fat.
+
+     _Butorides v. virescens._ Green Heron.--Weight: 1 (unsexed),
+     168.6.
+
+     _Anas discors._ Blue-winged Teal.--Weights: 4 males, mean
+     421.2 (391.3-458.1); 3 females, 367.7, 371.6, 393.2; all
+     fat.
+
+     _Rallus limicola._ Virginia Rail.--Weights: 3 males, 73.7,
+     83.2, 90.5; 1 female, 67.3; moderately fat to fat.
+
+     _Porzana carolina._ Sora.--Weights: 4 males, mean 76.8
+     (68.7-89.9); 3 females, 62.6, 63.2, 63.5; moderately fat to
+     very fat.
+
+     _Fulica americana._ American Coot.--Weights: 2 females,
+     385.3, 530.0, both fat. None preserved.
+
+     _Zenaidura macroura marginella._ Mourning Dove.--Weights: 2
+     adult males, 121.8, 140.2; 3 immature males, 113.1, 126.1,
+     130.0; 3 adult females, 122.5, 126.9, 136.0; 2 immature
+     females, 129.4, 132.7; moderately fat to very fat. The
+     presence of Mourning Doves in the sample is interesting as
+     these birds are not generally regarded as night migrants.
+     Conceivably the specimens were local birds going to roost.
+     None preserved.
+
+     _Colaptes auratus luteus._ Yellow-shafted Flicker.--Weights:
+     2 males, 126.0, 139.4, little fat. Flickers have several
+     times been recorded as night migrants.
+
+     _Empidonax flaviventris._ Yellow-bellied
+     Flycatcher.--Weight: 1 immature male, 11.9, moderately fat.
+     This is a rare species in Kansas, the present being the
+     ninth preserved specimen for the State.
+
+     _Troglodytes aëdon parkmanii._ House Wren.--Weights: 4 adult
+     males, mean 10.5 (9.8-10.9), 2 immature males, 9.0, 11.3; 1
+     adult female, 9.9, 1 immature female, 7.0; no fat (im.
+     [**Female symbol]) to fat.
+
+     _Telmatodytes palustris dissaëptus._ Long-billed Marsh
+     Wren.--Weights: 1 adult male, 10.8; 1 adult female, 9.2;
+     both moderately fat. The specimens are moderately bright and
+     rufescent above, being typical of the populations of the
+     central plains.
+
+     _Cistothorus platensis stellaris._ Short-billed Marsh
+     Wren.--Weights: 1 immature male, 8.2; 1 adult female, 8.1;
+     immature female, 8.2; all fat.
+
+     _Dumetella carolinensis._ Catbird.--Weights: 6 adult males,
+     mean 37.5 (34.1-42.5), little fat to very fat; 14 immature
+     males, mean 37.57 ± .94 (standard error), S. D. (standard
+     deviation) 3.37, little fat to fat; 11 adult females, mean
+     39.09 ± .94, S. D. 2.97, little fat to fat; 12 immature
+     females, mean 38.42 ± .83, S. D. 2.74, moderately fat to
+     fat.
+
+     _Toxostoma r. rufum._ Brown Thrasher.--Weight: 1 immature
+     male, 60.2, little fat.
+
+     _Hylocichla mustelina._ Wood Thrush.--Weights: 1 adult male,
+     54.2, moderately fat; 2 adult females, 44.6, 45.7, little
+     fat and fat, respectively.
+
+     _Hylocichla ustulata swainsonii._ Olive-backed
+     Thrush.--Weights: 6 immature males, mean 31.0 (28.1-33.2),
+     little fat to fat; 6 adult females, mean 29.6 (27.1-35.0),
+     moderately fat to fat; 3 immature females, 27.1, 33.8, 35.8,
+     little fat to fat. The absence of adult males in our sample
+     of 15 birds is noteworthy but inexplicable with our few
+     data.
+
+     _Regulus s. satrapa._ Golden-crowned Kinglet.--Weights: 1
+     adult male, 6.7, moderately fat; 2 immature males, 6.5, 7.4,
+     moderately fat and fat; 2 adult females, 7.3, 7.4,
+     moderately fat and fat; 1 immature female, 7.2, moderately
+     fat.
+
+     _Regulus c. calendula._ Ruby-crowned Kinglet.--Weights: 3
+     adult males, 6.2, 7.6, 8.2, little fat to fat; 1 immature
+     male, 6.6, fat; 4 adult females, mean 6.1 (5.6-6.7),
+     moderately fat to fat; 3 immature females, 5.8, 6.6, 7.0,
+     moderately fat to fat.
+
+     _Vireo flavifrons._ Yellow-throated Vireo.--Weight: 1
+     immature male, 21.5, very fat.
+
+     _Vireo s. solitarius._ Blue-headed Vireo.--Weights: 9 adult
+     males, mean 17.7 (16.6-19.5), little fat to very fat; 17
+     immature males, mean 17.53 ± .46, S. D. 1.83, no fat (13.8)
+     to very fat (21.3); 7 adult females, mean 17.6 (15.0-21.6),
+     moderately fat to very fat; 6 immature females, mean 17.0
+     (14.5-18.9), moderately fat to fat. Surprisingly numerous in
+     the sample.
+
+     _Vireo olivaceus._ Red-eyed Vireo.--Weights: 1 adult male,
+     16.1, moderately fat; 38 immature males, mean 21.21 ± .43,
+     S. D. 2.60, little fat (1 specimen) to excessively fat,
+     mostly moderately fat or fat; 2 adult females, 18.1, 18.1,
+     both fat; 23 immature females, mean 19.28 ± .46, S. D. 2.16,
+     little (2 specimens) to very fat, mostly fat.
+
+     Wing length: 1 adult male, 79.1; 38 immature males, mean
+     78.05 ± .30, S. D. 1.80; 2 adult females, 76.3, 79.0, 23
+     immature females, mean 75.83 ± .42, S. D. 1.99.
+
+     As mentioned below, the presence of only 3 adults in the
+     sample of 64 Red-eyed Vireos is highly significant and their
+     occurrence only in the earlier samples is strong evidence of
+     early migration by the adults.
+
+     _Vireo philadelphicus._ Philadelphia Vireo.--Weights: 2
+     adult males, 12.1, 15.9, moderately fat and very fat; 2
+     immature males, 11.1, 13.2, fat and very fat; 2 adult
+     females, 13.1, 14.2, both fat; 5 immature females, mean 14.1
+     (12.0-15.2), moderately fat to very fat.
+
+     This species previously has been collected in Kansas only
+     twice. Both records are from Doniphan County in September,
+     1922. Field observers occasionally record the Philadelphia
+     Vireo in eastern Kansas. Long (1940:450) calls it a "very
+     rare migrant in the extreme east." Our sample of 12 birds
+     killed on two nights (and probably after the peak of
+     migration of this species) leads us to think that this vireo
+     is actually a regular, but overlooked, migrant in fair
+     numbers.
+
+     _Vireo g. gilvus._ Warbling Vireo.--Weights: 12 adult males,
+     mean 15.92 ± .43, S. D. 1.44, moderately fat to very fat; 8
+     immature males, mean 16.64 (14.2-17.8), fat to very fat; 5
+     adult females, mean 16.1 (13.7-18.0), fat to very fat; 5
+     immature females, mean 15.4 (14.1-17.8), little fat to fat.
+
+     Wing length: 12 adult males, mean 73.08 ± .49, S. D. 1.64; 8
+     immature males, mean 71.15 (69.9-72.8); 5 adult females,
+     mean 70.0 (69.2-71.0); 5 immature females, mean 68.4
+     (67.7-70.3).
+
+     Tail length: 12 adult males, mean 53.33 ± .53, S. D. 1.77; 8
+     immature males, mean 50.03 (47.1-51.3); 4 adult females,
+     mean 48.6 (47.7-49.8); 5 immature females, mean 49.2
+     (47.3-53.0).
+
+     There is no indication that western birds (_V. g.
+     swainsonii_) make up any part of this sample.
+
+     The sample of 34 Warbling Vireos is too small to show the
+     significance, if any, of the 2:1 ratio of males to females
+     in the sample. Adequate samples of this species, taken at
+     intervals, would add interesting information on time of
+     migration of the four sex- and age-classes.
+
+     _Mniotilta varia._ Black and White Warbler.--Weights: 1
+     adult male, 12.5, fat; 2 adult females, 10.0, 10.0, little
+     fat, fat.
+
+     _Vermivora peregrina._ Tennessee Warbler.--Weights: 1 adult
+     male, 10.9, very fat; 1 immature male, 12.9, very fat; 2
+     adult females, 9.1, 12.5, moderately fat and very fat. The
+     relative scarcity of Tennessee Warblers in the sample is
+     surprising. They are common in the area in spring.
+
+     _Vermivora c. celata._ Orange-crowned Warbler.--Weights: 9
+     adult males, mean 8.8 (7.7-10.9), little fat to fat; 13
+     immature males, mean 8.92 ± .15, S. D. .53, little fat to
+     fat; 5 adult females, mean 8.8 (8.3-10.3), little fat to
+     moderately fat; 17 immature females, mean 9.13 ± .08, S. D.
+     .72, little fat to fat. Of the 19 Orange-crowned Warblers
+     killed on October 7, 11 had little fat, 6 were moderately
+     fat, and only 2 were fat. No one-night sample of any other
+     warbler killed at Topeka had less fat than this group of
+     warblers. Furthermore, our sample (including 11 males) from
+     October 7 (all sex- and age-classes) averaged 8.81 grams;
+     the sample of 13 (including only 4 males) from October 1
+     averaged 9.1 grams. If one can assume, for any one species,
+     that individuals undertake nocturnal migration only when
+     they are physiologically ready, and this includes a certain
+     amount of fat as a fuel source (Wolfson, 1954), then this
+     further assumption seems justified: birds killed in
+     migration with little fat must have flown longer or farther
+     or both than birds killed with more fat. No further
+     speculation on this point is permissible with our data, but
+     the possibilities for study of future large kills,
+     especially where actual time of death of the birds is known,
+     are obvious.
+
+     _Vermivora r. ruficapilla._ Nashville Warbler.--More
+     Nashville Warblers were picked up at Topeka than any other
+     species and they are discussed in detail elsewhere in this
+     report. The four sex- and age-classes can be identified with
+     fair accuracy on plumage characteristics alone. Adult males
+     have a large amount of reddish-brown in the crown, not
+     completely veiled by the gray tips of the crown feathers.
+     Immature males have a smaller but distinct crown patch,
+     usually completely veiled. All males, compared with females,
+     are grayer on the sides of the head, have a more nearly
+     white eye-ring, and show clearer yellow on the throat. Adult
+     females differ from immature females in that they more often
+     have a trace of rufous in the crown and tend to be brighter
+     below than the immatures. Of 177 specimens, 20 were very
+     fat, 108 were fat, 46 were moderately fat, and 3 had little
+     fat.
+
+     _Parula americana._ Parula Warbler.--Weight: 1 adult female,
+     7.9, fat.
+
+     _Dendroica petechia aestiva._ Yellow Warbler.--Weights: 1
+     immature male, 10.2, fat; 3 adult females, 8.8, 9.5, 10.1,
+     moderately fat; 2 immature females, 9.0, 9.4, little fat and
+     fat.
+
+     _Dendroica magnolia._ Magnolia Warbler.--Weights: 1 adult
+     female, 9.0, moderately fat; 2 immature females, 7.9, 10.3,
+     moderately fat and fat.
+
+     _Dendroica c. caerulescens._ Black-throated Blue
+     Warbler.--Weights: 2 immature males, 13.8, 14.1, excessively
+     fat; 1 immature female, 11.4, fat. This species is rare in
+     Kansas. Although its breeding range is almost entirely east
+     and north of Kansas, records in files at the University of
+     Kansas show that more specimens have been taken in western
+     than in eastern Kansas.
+
+     _Dendroica c. coronata._ Myrtle Warbler.--Weight: 1 immature
+     female, 11.6, fat.
+
+     _Dendroica pensylvanica._ Chestnut-sided Warbler.--Weights:
+     2 immature females, 8.1, 10.0, little fat. Only one specimen
+     from Kansas had been preserved previously although the
+     species is a regular transient in small numbers throughout
+     the state.
+
+     _Dendroica castanea._ Bay-breasted Warbler.--Weights: 1
+     adult male, 19.2, excessively fat; 1 adult female, 11.7,
+     little fat; 1 immature female, 11.2, moderately fat. Only 5
+     specimens of this warbler have been taken previously in
+     Kansas, 4 in spring (Ruth, 1952:18-19) and 1 in fall.
+
+     _Dendroica p. palmarum._ Palm Warbler.--Weights: 2 immature
+     males, 9.9, 10.9, moderately fat; 2 unsexed immatures, 9.1,
+     9.4, moderately fat. This species has been taken in fall in
+     Kansas only once before (KU 26353, taken by Wetmore, at
+     Lawrence, on October 5, 1907), but probably occurs regularly
+     in both spring and fall migration.
+
+     _Seiurus a. aurocapillus._ Oven-bird.--Weights: 2 adult
+     males, 22.5, 23.8, fat and very fat; 14 immature males, mean
+     21.89 ± .66, S. D. 2.46, fat to very fat; 8 adult females,
+     mean 21.4 (18.3-25.7), moderately fat to fat; 6 immature
+     females, mean 18.2 (15.6-20.0), moderately fat to fat.
+
+     _Seiurus noveboracensis notabilis._ Northern
+     Water-thrush.--Weights: 3 immature males, 18.1, 18.6, 22.2,
+     moderately fat to fat; 1 immature female, 22.2, fat.
+     Referring these birds to _notabilis_ is a somewhat arbitrary
+     procedure. They display some intermediacy of characters and
+     probably stem from a population, intermediate between
+     _notabilis_ and _noveboracensis_, occupying much of central
+     North America (cf. McCabe and Miller, 1933).
+
+     _Oporornis philadelphia._ Mourning Warbler.--Weight data
+     presented elsewhere. The birds killed at Topeka provide the
+     latest fall dates for this species in Kansas. Fifteen were
+     killed on September 25, 64 on October 1, 2 on October 5, 11
+     on October 6, 2 on October 7, and 1 on October 8. We find no
+     other records later than September 15. Of 93 specimens
+     examined, 1 was excessively fat, 22 were very fat, 45 were
+     fat, 21 were moderately fat, and 4 had little fat. The
+     abundance of this secretive species in the sample was a
+     great surprise. It had previously been considered a rather
+     rare migrant in this area.
+
+     _Geothlypis trichas occidentalis [>brachidactyla?]._
+     Yellow-throat.--Weight data presented elsewhere. This
+     species was second in numbers only to the Nashville Warbler
+     in the total kill at Topeka. Of 167 birds examined, 29 were
+     very fat, 114 were fat, 23 were moderately fat, and 1 had
+     little fat.
+
+     The Yellow-throats are greatly in need of meaningful and
+     comprehensive revision, which to date has been restricted to
+     the western subspecies (Behle, 1950). Since the appearance
+     of the 1931 A. O. U. Check-List a great deal of scattered
+     taxonomic work on the species, as yet unsynthesized, has
+     made the picture of its geographic variation a blurry one so
+     far as the details are concerned. Made in the absence of
+     adequate comparative material, the above identification is
+     to be regarded as tentative. Also, it is, unfortunately,
+     based only on those 6 of our 176 specimens preserved as
+     skins. Five of these are adult males, the sixth being an
+     immature female. Compared with a series of Kentucky
+     specimens regarded as typical _brachidactyla_, these birds
+     are paler and brighter above (tending toward gray-green
+     rather than brownish olive), brighter and more extensively
+     yellow below, with broader, more nearly white superciliary
+     stripes above their black masks (in males). In size they are
+     close to _occidentalis_ (see Behle, 1950:202). Five males
+     have an average wing-length of 56.6 mm. (53-59); one female
+     measures 53. Six males from Kentucky: 55.1 (53-56); four
+     females, 51.1 (48-56). Our birds may be assumed to have
+     stemmed from a population to the north and west which, if
+     not _occidentalis_ (or _campicola_ Behle and Aldrich, of
+     which no comparative material is at hand), is intermediate
+     between _brachidactyla_ and more western birds. Judging from
+     Behle's map (1950:fig. 32), these birds may have come from
+     an area near the confluence of three subspecies
+     (_campicola_, _occidentalis_, _brachidactyla_). Long
+     (1940:452) reports three subspecies breeding in Kansas
+     (_brachidactyla_, northeast; _occidentalis_, west;
+     _trichas_, southeast). The occurrence in Kansas of _G. t.
+     trichas_ as currently understood is completely out of the
+     question.
+
+     _Icteria v. virens._ Yellow-breasted Chat.--Weight: 1
+     unsexed immature, 29.7, moderately fat.
+
+     _Wilsonia p. pusilla._ Wilson Warbler.--Weights: 2 adult
+     females, 7.5, 7.8, fat, moderately fat; 1 unsexed adult,
+     8.3, fat.
+
+     _Wilsonia canadensis._ Canada Warbler.--Weight: 1 immature
+     female, 10.0, little fat. We know of only five other
+     specimens from Kansas, although this warbler seems to be a
+     regular migrant in small numbers in the state.
+
+     _Setophaga r. ruticilla._ American Redstart.--Weight: 1
+     immature female, 9.1, moderately fat.
+
+     _Dolichonyx oryzivorus._ Bobolink.--Weights: 2 adult
+     females, 39.5, 42.9; 2 immature females, 38.8, 42.0; all
+     excessively fat. Specimens of the Bobolink previously have
+     been taken in fall in Kansas only on September 20 and 24,
+     1933, near Lawrence, by Long and Preble (Long, 1934).
+
+     _Pheucticus ludovicianus._ Rose-breasted Grosbeak.--Weights:
+     1 adult male, 50.4, fat; one immature male, 54.5, very fat.
+
+     _Passerina cyanea._ Indigo Bunting.--Weights: 1 adult male,
+     18.4, fat; 2 immature males, 17.2, 17.2, fat and very fat; 2
+     adult females, 14.3, 16.9, moderately fat and very fat; 1
+     immature female, 13.4, little fat. The sample was carefully
+     checked for Lazuli Buntings (_Passerina amoena_); none was
+     found.
+
+     _Spiza americana._ Dickcissel.--Weight data presented
+     elsewhere in this paper. Dickcissels were picked up at the
+     television tower on October 1 (31), 5 (1), 6 (3), and 7 (1).
+     These birds, together with an adult female taken 3 miles
+     east and 3 miles south of Lawrence, on October 11, 1953, by
+     Tordoff, are the only specimens of this species taken as
+     late as October in Kansas. The Dickcissel becomes
+     inconspicuous in late summer and many observers here and
+     elsewhere have thought the species disappeared much earlier
+     than it really does (see Ganier, 1949). Of 34 specimens, 20
+     were very fat and 14 were fat.
+
+     _Passerculus sandwichensis nevadensis._ Savannah
+     Sparrow.--Weights: 1 adult male, 19.4, fat; 2 immature
+     males, 18.3, 19.0, moderately fat; 5 adult females, mean
+     17.2 (14.8-19.5), little fat to fat; 4 immature females,
+     mean 18.0 (16.9-19.6), moderately fat to fat. Many of the
+     Savannah Sparrows migrating through Kansas have in the past
+     been referred to the subspecies _P. s. anthinus_ (=
+     _alaudinus_ of the 1931 A. O. U. Check-List) by various
+     workers (see Long, 1940:454). As Peters and Griscom
+     (1938:464-5) have shown, true _anthinus_, breeding in the
+     far northwest, ordinarily occurs in migration only in the
+     western part of the country, the breeding Savannah Sparrows
+     of a large part of the central continental region (east to
+     southern Wisconsin) being _P. s. nevadensis_ as now
+     understood. Migrants of this pale, clay-colored subspecies
+     should be abundant in Kansas, and all of the specimens in
+     the present sample are referable to it.
+
+     _Ammodramus savannarum perpallidus._ Grasshopper
+     Sparrow.--Weights: 3 adult males, 16.4, 17.6, 20.6,
+     moderately fat, fat, fat; 5 immature males, mean 18.1
+     (16.0-20.2), little fat to fat; 5 adult females, mean 17.9
+     (16.8-18.9), moderately fat to very fat; 5 immature females,
+     mean 18.1 (16.8-20.6), fat to very fat.
+
+     _Passerherbulus caudacutus._ Leconte Sparrow.--Weights: 1
+     immature male, 11.2, moderately fat; 1 immature female,
+     12.2, moderately fat.
+
+     _Ammospiza caudacuta nelsoni._ Sharp-tailed
+     Sparrow.--Weights: 2 adult males, 15.2, 17.1, moderately fat
+     and very fat; 1 adult female, 13.3, little fat. Five
+     specimens of this species have been taken previously in
+     Kansas, all in October in the eastern part of the state.
+     Additionally, several observers have reported birds seen but
+     not collected. The three birds from Topeka were picked up on
+     October 6, 7, and 10 and are the only specimens taken since
+     1907. Possibly our specimens from Topeka struck the tower on
+     the same night. Tordoff noticed, upon preparation, that the
+     specimens from October 7 and 10 showed progressive drying of
+     the extremities and spoilage as compared with the bird
+     picked up on October 6.
+
+     _Junco hyemalis cismontanus._ Slate-colored Junco.--Weight:
+     1 immature female, 16.4, little fat. Juncos of hybrid type,
+     whether _J. h. hyemalis_ × _J. oreganus_ subsp. or true _J.
+     h. cismontanus_, are fairly common in eastern Kansas.
+
+     _Spizella pallida._ Clay-colored Sparrow.--Weights: 2 adult
+     males, 11.6, 12.2, both fat; 1 immature male, 11.8, fat; 1
+     adult female, 12.5, fat; 7 immature females, mean 11.1
+     (9.7-12.5), little fat to fat.
+
+     _Passerella iliaca iliaca._ Fox Sparrow.--Weight: 1 adult
+     female, 29.4, little fat. A trifle grayer above than any of
+     several Kentucky specimens, this bird nevertheless seems
+     well within the range of variation of _iliaca_.
+
+     _Melospiza l. lincolnii._ Lincoln Sparrow.--Weights and
+     measurements are discussed elsewhere. Of 81 specimens, 15
+     were very fat, 47 were fat, 12 were moderately fat, and 7
+     had little fat. Interestingly, there is no evidence that the
+     large southern montane subspecies (_M. l. alticola_) has
+     contributed to the present sample. No bimodality is evident
+     in the curve of wing-length in our birds, the largest of
+     which barely approach, the small extreme recorded for
+     _alticola_ by Miller and McCabe (1935:156).
+
+     _Melospiza georgiana ericrypta._ Swamp Sparrow.--Weights: 3
+     immature females, 14.3, little fat, 16.7, 17.0, moderately
+     fat. Swamp Sparrows examined were all more or less brightly
+     colored and seem to belong to this northern subspecies.
+
+     _Melospiza melodia juddi._ Song Sparrow.--Weights: 1 adult
+     female, 19.4, little fat; 1 unsexed immature, 16.0, little
+     fat. A large proportion of the migrant and wintering Song
+     Sparrows in eastern Kansas probably originate from the range
+     of this subspecies in the northern plains. _Melospiza
+     melodia euphonia._--One immature female (not weighed) was
+     picked up below the tower on October 27, 1954, and thus does
+     not appear in Table 1. The specimen proved typical of this
+     generally more eastern subspecies upon comparison with a
+     large series from Kentucky. For what it may be worth we
+     refer the single specimen to this subspecies. Long
+     (1940:456) reported two eastern subspecies from Kansas
+     ("_beata_," _melodia_). All Kansas specimens genuinely of
+     eastern origin probably originate from the range of
+     _euphonia_, as now understood.
+
+
+
+
+Randomness of the Sample
+
+
+The reliability of certain of the conclusions which might be drawn
+from data of the kind presented herein depends largely on the
+randomness of the sample. To what degree does this sample provide a
+true cross-section of the nocturnal migrants present over the area on
+a given night or succession of nights? As far as the relative
+abundance of species in the sample is concerned, there is little doubt
+that it is not at all random. The absence of such species as the
+Gray-cheeked Thrush (_Hylocichla minima_), among the passerines, and
+many of the shorebirds known to be migrating through the area at the
+time is evidence for this statement. Quite possibly many seminocturnal
+species did not strike the tower at all for the simple reason that
+they could see it, and certain large-eyed diurnal species (such as
+thrushes and shorebirds) may avoid collision to some extent, thus not
+appearing in the sample in proportion to their actual numbers.
+Finally, some or all of the species concerned probably migrate partly
+by day. The sample may to some degree reflect the true relative
+abundance of closely related species. For example, there is little
+doubt that, as shown by the sample, Nashville Warblers are more
+numerous locally at this season than Tennessee Warblers, a fact that
+can readily be corroborated by ordinary field observation. Also, the
+sample is useful in suggesting the actual abundance of species which
+are furtive and/or difficult to identify under normal field
+conditions, for example, the Mourning Warbler and Philadelphia Vireo.
+It is obvious that the sample should reflect the true relative
+abundance at one place and time of any two species with equal tendency
+to migrate by night and equal tendency to strike the tower. Since the
+facts in regard to both tendencies are at present unknown for most
+species, we think that interspecific comparisons should be avoided or
+approached with extreme caution.
+
+In respect to the relative abundance of the various sex- and
+age-classes within a given species, the sample is, we think, as close
+to random as is possible to obtain. Certainly it is greatly superior
+to samples obtained by field collecting, where possible differences in
+habits, wariness, and experience of the birds, and subconscious (if
+not conscious) selection by collectors can all bias the results.
+Dwight (1900:128-9) believed that the greater wariness of adult birds
+was almost entirely responsible for the seemingly disproportionate
+number of immatures in autumn and gave some observational evidence in
+favor of his views. The large percentage of adults in some of the
+samples here treated tends to reinforce Dwight's position. To a
+somewhat lesser extent, this advantage in randomness of accidental
+kills over routine collecting may be supposed to apply also in
+demonstrating the composition by subspecies of a single migrant
+species.
+
+So far as particulars already mentioned are concerned, the present
+sample or other samples of tower-killed birds would seem to be in no
+way superior (that is, more nearly random) to samples obtained in
+connection with lighthouses and other lighted objects, and
+ceilometers. In one important respect, however, it is probably
+somewhat superior to these as the dimly red-lighted structure has not
+been shown to have any important collecting or attracting influence.
+Thus, in computations intended to estimate the over-all abundance of
+migrants, the sample should be more reliable than samples involving
+bright light with its possible attracting effect.
+
+
+
+
+Number of Migrants
+
+
+If it can be assumed that nocturnally migrating birds are
+approximately uniformly spaced across the sky and that the red lights
+did not attract birds which would otherwise have missed the tower, it
+is possible to compute the volume of migration from the sample killed.
+In regard to the first assumption, both Stone (1906:250-251) and
+Lowery (1951:409-413) have presented evidence of fairly uniform
+distribution of nocturnal migrants. We have no information on the
+second assumption beyond the facts that birds do not strike the high
+towers on clear nights or lower towers even on stormy nights.
+
+On nights when large numbers of birds struck the 950 foot Topeka
+tower, only a few struck a 500 foot radio tower, also lighted with red
+lights, at Lawrence, 24 miles east, under similar weather conditions.
+Most of the birds found at Topeka were fairly close to the base of the
+tower, indicating that they struck the tower itself or that they were
+flying high enough to strike guy wires only fairly close to the tower.
+The scarcity of birds under the guy wires some distance from the tower
+at Topeka and at the radio tower at Lawrence causes us to think that
+most of the birds were flying more than 450 feet above the ground. On
+this basis, we have computed numbers of migrants passing through a
+plane one mile long and 500 feet high (2,640,000 square feet),
+intersecting the assumed path of migration at right angles.
+Vertically, the theoretical plane begins at 450 feet above ground and
+has its top edge at 950 feet. The solid (discounting spaces between
+girders, _etc._) cross-sectional area of the tower intersecting this
+plane was computed by actual measurement to be 1685 square feet. On
+the night of September 30-October 1, 585 birds were killed. By
+computation (585/1685 = X/2,640,000), approximately 916,000 birds
+passed through the mile-long plane that night. On each of the nights
+of October 5-6 and October 6-7, approximately 230,000 birds passed
+through this plane. By comparison, Lowery (1951:436) recorded maximum
+station densities in one night in spring of 63,600 birds at Tampico,
+Mexico, and 51,600 at Lawrence, Kansas, as determined by
+moon-watching. Lowery's figures refer to numbers of birds crossing any
+part of a circle one mile in diameter and are roughly comparable to
+ours if, as we think, most of the birds at Topeka were flying at
+altitudes between 450 and 950 feet above the ground.
+
+It must be realized that these figures are only approximations. One
+variable ignored is the frontal extent (or area, viewed from the
+front, subject to damage by striking an obstruction) of the birds
+themselves. Since practically all birds killed showed head or trunk
+injuries, rather than a high proportion with only broken wings, we
+chose to disregard frontal extent of the birds in our calculations. If
+our figures are inaccurate by as much as 50 per cent in either
+direction, which seems unlikely to us, they still give some idea of
+the tremendous volume of nocturnal migration under some conditions.
+
+It may be more meaningful to compute numbers of migrants by species.
+This can be done readily by making appropriate substitutions from
+Table 1 in the equation given above. For example, on the night of
+September 30-October 1, approximately 147,000 Nashville Warblers
+passed through the mile-long plane and on the same night, 100,000
+Mourning Warblers and 14,000 Philadelphia Vireos. Neither of the last
+two species would be judged to be abundant migrants in autumn in
+eastern Kansas by ordinary field observations; the television tower
+sample, however, indicates that these as well as other species must
+often be overlooked when they do stop in Kansas.
+
+
+
+
+Differential Migration of Sex- and Age-classes
+
+
+HISTORY OF THE SUBJECT.--For a long time it has been known in a
+general way that old and young birds and males and females of some
+species do not always migrate at the same times, by the same routes,
+or even to the same places. This is a subject about which much has
+been written. Reading the summaries of some general texts, it is easy
+to acquire the impression that the facts of the matter are well known.
+On the contrary, they are poorly known and much remains to be learned
+before differential migration is understood. This can best be
+indicated by a brief survey of the literature.
+
+The importance of the subject was emphasized by Meinertzhagen
+(1930:52) in one of the later reviews of differential migration: "The
+main problem concerns the Cause of Migration, the Stimulus which
+compels Migration and the Origin of the Migratory Habit.... There is,
+however, a minor problem which affords valuable evidence in helping us
+to solve the major problem, bearing very directly on it, namely, the
+order of sex and age on migration."
+
+The mystery of how birds, especially the young, find their way in
+migration has fascinated students since the earliest times. The quite
+natural though purely anthropomorphic conclusion of early scholars was
+that the old birds led the young on migration. This attractive idea
+persisted long after ornithology began to grow into a science. The
+classic theory was restated by Palmén (1876:267), in one of the first
+thorough reviews of the subject of migration, as follows: "Directe
+Beobachtungen in der Natur ergeben, dass die Schaaren von ziehenden
+Vögeln allgemein ältere und stärkere Individuen als Anführer des Zuges
+haben." Variously modified, this view continued to crop up for some
+time and still found support in the 1890's (see Dixon, 1892:69). Gätke
+(1895:101) correctly questioned the credibility of Palmén's "direct
+observations."
+
+With the gradual abandonment of the unsupportable classic theory,
+diametrically opposed views were adopted by workers on opposite sides
+of the Atlantic. The American stand was ably expressed by Brewster
+(1886), who went to great pains to state his case and give evidence,
+and who was later supported by Allen (1896:144-147; 1909:17). The
+Americans held that adult birds nearly always preceded the young in
+migration, and this was based on much evidence, whether or not
+correctly interpreted. Dwight (1900:127) also gave evidence in favor
+of this theory. Equally definite, if, as has later been shown,
+somewhat vaguely documented, was the famous work of Gätke (1895:see
+pp. 100-113), who after many years' observation of migrant birds in
+Heligoland concluded the exact opposite, that young in general precede
+adults (see critiques of Allen, 1896:144-147; Wiegold, 1926:5).
+Gätke's dissenting opinion was for a time supported enthusiastically
+by British workers (Gurney, 1923:579-580).
+
+As so often happens, neither extreme has withstood the test of time,
+and more recent summaries (Meinertzhagen, 1930:55-56; Thomson, 1926,
+1936:488-489; Wiegold, 1926) have tended to compromise. Many
+exceptions to Gätke's extreme conclusion have been detected.
+Exceptions to the Brewster-Allen stand have also been discovered,
+although work along these lines on the American side has lagged
+somewhat. Rowan (1926) has given further evidence on the migration of
+certain shorebirds, and some evidence has accrued in relation to
+particular species and groups as a result of life-history and banding
+studies (see Pitelka, 1946). Authors of major works on migration,
+however, have either been preoccupied with other phases of migration
+or avoided the issue. In an able study (one of several on related
+subjects) of the composition by sex and age of migrant populations in
+north Germany, Drost (1935:177) did not go into the question of order
+on migration.
+
+One is left with the impression that the whole subject is still
+unsettled. While earlier workers sought to reduce the entire matter to
+law, the latest disclaim the possibility of generalization. After
+summarizing Brewster's and Gätke's opinions, Thomson (1926:79) wrote:
+"It would seem, in any event, that no general rule can be laid down."
+Meinertzhagen's summation (1930:56-57) still represents fairly well
+the status of our knowledge: "Order of sex and age on autumn passage
+is very difficult to arrive at, as evidence is conflicting. But, on
+the whole, it seems that birds flock together, old and young,
+preparatory to moving south, and do in many cases initiate migration
+in company.... But once movement is initiated, among birds which do
+not habitually fraternise in flocks, adults, and especially males,
+will naturally outstrip the less virile females and still less virile
+offspring.... The consequence is that any observer at an intermediate
+station such as Heligoland is, in noting birds of the year as first
+arrivals, has not had an opportunity of noting the flocks of adults
+which have passed without alighting. On the other hand, there is very
+definite evidence to show that among certain species, adults follow
+their offspring on migration. The reason for different behaviour
+among different types of birds remains obscure." We regard much of
+this as still theory.
+
+[Illustration: FIG. 1. Composition by age and sex as found in one or
+more series of each of eight species of birds included in the Topeka
+sample. Each separate series is represented by a single histogram, the
+histograms for a species being grouped with the earliest series on the
+left. Each histogram expresses the numbers of adults (left-hand
+column) and immatures (right-hand column) in terms of percentage of
+the whole series. Thus the two bars of each couplet add up to 100 per
+cent. The hatched portion of each bar represents males, the clear
+portion females.]
+
+It would be difficult to imagine a better way of resolving the
+problems and uncertainties just reviewed than by the detailed
+analysis of large samples of migratory birds killed at random at
+various points and times. An analysis of the sample of birds
+accidentally killed at Topeka is presented here as an initial step in
+this direction. Although the conclusions based on this sample are
+tentative and may in time be altered, the data themselves are
+definite. If this general type of analysis is repeated again and
+again--applied to samples taken on many dates and in many
+localities--a mass of hitherto unparalleled evidence for the study of
+migration will emerge.
+
+
+DIFFERENTIAL MIGRATION OF SEX- AND AGE-CLASSES AS SHOWN BY THE TOPEKA
+SAMPLE.--Smaller samples have not been treated. Species affording
+samples seemingly large enough to justify at least preliminary
+analysis were: Catbird, Red-eyed Vireo, Mourning Warbler, Dickcissel,
+Nashville Warbler, Orange-crowned Warbler, Yellow-throat, and Lincoln
+Sparrow (Fig. 1). For all of these except the Catbird and Dickcissel,
+at least two samples from a week or more apart were available for
+comparison in an effort to detect trends in migration. Fig. 1 shows
+the actual ratios of sex- and age-classes observed in samples of the
+species listed above. Each of the last four species provided two
+separate samples, of sufficient size to warrant an attempt at
+measuring the statistical significance of the observed changes in
+adult-immature ratios (Table 2).
+
+TABLE 2.--STATISTICS OF THE RATIOS OF ADULTS TO IMMATURES IN FOUR
+SPECIES
+
+ =======================================================================
+    Species    |        Dates       |Total | Number     | Differ- |P[3]
+               |     of samples     |number|  and       |  ence   |
+               |                    |      |percentage  |(in %)[2]|
+               |                    |      |of adults[1]|         |
+ --------------|--------------------|------|------------|---------|----
+ Nashville     |Oct. 1 (93)         |  156 | 45 (.484)  |   .071  |.36
+   Warbler     |Oct. 5-7 (63)       |      | 26 (.413)  |         |
+               |                    |      |            |         |
+ Orange-crowned|Sept. 25-Oct. 1 (19)|   44 |  3 (.158)  |   .282  |.05
+   Warbler     |Oct. 5-9 (25)       |      | 11 (.440)  |         |
+               |                    |      |            |         |
+ Yellow-throat |Oct. 1 (115)        |  159 | 62 (.540)  |   .085  |.34
+               |Oct. 5-8 (44)       |      | 20 (.455)  |         |
+               |                    |      |            |         |
+ Lincoln       |Oct. 1-3 (44)       |   71 | 27 (.614)  |   .318  |.01
+   Sparrow     |Oct. 6-10 (27)      |      |  8 (.296)  |         |
+ ----------------------------------------------------------------------
+
+    Footnotes:
+
+    [1] Percentage of immatures equals 1.000 minus percentage of
+    adults.
+
+    [2] Standard error of the difference between ratios was
+    computed by the formula
+    [Greek: s]^e = sqrt(P_e Q_e (1/N_1 + 1/N_2))
+    where P_e equals percentage of adults and Q_e equals
+    percentage of immatures in the entire sample.
+
+    [3] Probability of error; _i. e._, a P of .01 means there is
+    one chance in 100 that the difference observed does not
+    represent an actual difference in nature.
+
+Upon the application of statistical methods it soon became evident
+that, unless changes in ratio between two samples are marked, large
+samples would be required in order to reach conclusions of high
+statistical significance in a single study of the present type. In
+this case (see Table 2), the Lincoln Sparrow and Orange-crowned
+Warbler, though represented by only moderate-sized series, show marked
+changes in age composition over the period studied, and the
+statistical treatment indicates a high degree of probability that
+these changes are real. Assurance that the lesser changes observed in
+the Nashville Warbler and Yellow-throat are real, on the other hand,
+is much less, even though the samples are larger. Few if any of the
+samples here discussed are as large as might be desired. Therefore,
+conclusions based upon them (see below) are to be regarded as
+tentative. Many other, future, samples will perhaps also be
+insufficient in size in themselves. There are, however, statistical
+advantages to repetition which will serve to make the repeated
+analysis even of small samples significant and valuable.
+
+Certain of the samples not treated statistically show ratios that can
+be seen by inspection to be probably significant. For example the
+almost complete absence of adults from the three samples of Red-eyed
+Vireos (Fig. 1E) cannot be disregarded in view of the size of the
+whole sample of the species. The same applies to the high percentage
+of adult females and the near absence of adult males in the sample of
+the Dickcissel (Fig. 1F). The continuity in direction of changes
+observed in the three samples of the Mourning Warbler (Fig. 1G) and
+Red-eyed Vireo is likewise probably significant, even though some of
+the samples compared are small. It seems to us that the application of
+statistical methods to these species should await the accumulation of
+more material. For anyone desiring to treat them statistically now,
+the data are inherent in this paper.
+
+We have not computed the standard errors of the ratios of sexes within
+age groups (except experimentally in a few cases). This can easily be
+done, however, and the significance of a given ratio determined, on
+the assumption (perhaps sometimes dubiously justifiable) that the
+sex-ratio in the species concerned is one:one. Obviously there is no
+point in computation of the standard errors of adult-immature ratios
+in single samples (such as that of the Dickcissel) until the actual
+ratio prevailing in the species in nature at the season in question is
+known for comparison with the observed ratio. Our formal statistical
+treatment, therefore, has been limited to an examination of the
+significance of the _changes_ between adult-immature ratios in samples
+of the same species taken a number of days apart.
+
+The samples suggest several patterns of differential migration of sex-
+and age-classes. Indeed, the important consideration brought out--in
+our opinion not hitherto sufficiently emphasized in literature--seems
+to be that in generalizing about adults and immatures, one must be
+careful to take sexes into account, and conversely, in generalizing
+about males and females, one must consider also age. In other words,
+there are really four classes to be considered. This poses additional
+problems in analysis and introduces the need for still larger samples
+in order to reach significant conclusions. To illustrate: an
+adult-immature ratio of 40:20 (N = 60) may be satisfactorily
+significant, while within the 40 adults a ratio of 25 males:15 females
+may not be. Were the original sample 80:40 (N = 120) with male adults
+50 and female adults 30, it is obvious that the significance of the
+latter ratio would be greater. The same applies in reverse if the
+greater emphasis is placed on sex and the lesser on age. Because of
+the moderate size of the samples this problem has been felt in the
+present study in respect to sex ratios within age groups, many of
+which must at present be regarded as of tentative significance.
+
+In short, what the earlier ornithologists regarded as a simple problem
+is in reality a complex one. There are only two patterns in what may
+be called the Brewster-Gätke argument: adults first or immatures first
+(with of course the further possibility of both at the same time).
+Both patterns occur, as is now known, at least to some extent. But
+actual patterns, as suggested by our samples, are more complex when
+all classes are considered. It will readily be seen that, if adult
+males, immature males, adult females, and immature females be regarded
+as units, each with certain migratory characteristics, the
+combinations of these units in various orders of migratory precedence
+are potentially numerous. In fact, of course, they do not behave
+strictly as units (or perhaps very rarely so), but our data strongly
+indicate that the tendency exists in many cases. This may be stated
+another way. The present samples may be reduced to two basic patterns,
+fitting the classic early American (adults first) and early European
+(immatures first) theories. But, either such simple arrangement is
+compounded in some, perhaps in truth in all, instances by differential
+migration of the sexes _within_ each age class. This proposition can
+also be stated backwards: the samples show differential times of
+migration of the sexes, compounded by differential times of migration
+of the age groups within each sex. The order in which these matters
+are approached depends on what one is trying to find out. Influenced
+by the literature, in which most emphasis has been placed on age, we
+have approached the problem from that standpoint. The data and figures
+here given, however, can be juggled if one wishes to place first
+emphasis on the order of sexes in migration.
+
+Bearing in mind what has just been said, particularly in respect to
+sizes of samples necessary for significance, let us consider the
+patterns of migration suggested by the Topeka sample. These are as
+follows:
+
+(1) _An early migration largely composed of adults, giving way later
+on to a preponderance of immatures._ Regardless of variations among
+them, samples showing this basic pattern are in line with the opinions
+of Brewster (1886) and his followers. This pattern is here shown by
+the Lincoln Sparrow, Yellow-throat, Nashville Warbler, Catbird (one
+sample only), and Red-eyed Vireo (Fig. 1, A, B, C, D, E). The evidence
+of these and all other samples would admittedly be more conclusive if
+the samples were further apart in time or, better still, were there
+more of them. There is evidence that differences in migration of the
+sexes, within age classes, influence this pattern, sharply in some
+instances. In the later samples of Lincoln Sparrow, Yellow-throat, and
+Red-eyed Vireo (Fig. 1, A, B, E) there are relatively fewer males,
+both adult and immature, than in the earlier samples and this may be
+true also of the Catbird, judging from the single sample. The Red-eyed
+Vireo (Fig. 1, E) is characterized by small number, or absence of,
+males in each sample but the samples are not significantly different,
+and can be regarded as one. Although the samples of the Dickcissel and
+Mourning Warbler (Fig. 1, F, G) show a somewhat different over-all
+pattern and are discussed further on, they also contain few adult
+males. Since these samples are from a period that is near the end of
+the migration of Red-eyed Vireos, Mourning Warblers, and Dickcissels,
+it may be assumed tentatively that the adult males have already
+migrated. Meinertzhagen (1930:56) postulated that in many species
+there is an earlier or more rapid migration of adults, particularly
+males, and the data for the above species in our sample tend to
+support his assumption. But our data suggest in addition that in some
+species _immature males_ migrate earlier, or more rapidly, than do
+_immature females_, just as adult males precede adult females in some
+instances. Within this general pattern (adults first) another
+variation is shown by the Nashville Warbler (Fig. 1, C) in which the
+later sample of adults is heavily weighted towards males, even though
+an increasing over-all proportion of immatures is evidenced. In this
+case, and contrary to Meinertzhagen's suggestion, it would seem that
+adult females have preceded or outstripped adult males in migration.
+
+(2) _An early preponderance of immatures, followed by a preponderance
+of adults._ The several species of birds at Topeka that display this
+pattern conform with the conclusions of Gätke and other early Old
+World ornithologists that in most species immatures precede adults in
+migration. In the present sample two variations of this pattern occur.
+
+(a) In the Dickcissel (Fig. 1, F) and the Mourning Warbler (Fig. 1,
+G), immatures decrease more markedly than adults (visible in samples
+of Mourning Warbler; inferred in Dickcissel), leaving the adults in
+the majority in the closing phase of migration. The distinctive and
+interesting feature in each of these two species is the ascendancy in
+numbers of adults _despite_ the almost complete disappearance of adult
+males. The relative increase of adults is here caused by a retarded
+migration of adult females, which linger conspicuously behind all
+other classes. Something of this nature was suggested, in theory, by
+Dixon (1892:70) who thought that adult females are delayed by
+"maternal duties." It was hinted at also by Dwight (1900:127) who
+thought that in some species females molted later than males as a
+result of prolongation of parental responsibilities. As mentioned
+already, there is need for caution in interpreting the present samples
+because the Dickcissel is represented only by one sample and two of
+the three samples of Mourning Warblers are small. In the case of the
+Mourning Warbler, the samples may be regarded as one, nearly lacking
+in adult males. The progressive increase of adult females, however,
+may be significant; at least there are enough of these to make
+division of the birds into three samples enlightening. There is, of
+course, some chance that the majority of adult males have not yet
+migrated, or are migrating by a different route. This seems unlikely
+in both cases. October 1 is late in the migration of the Dickcissel
+and it seems that large-scale migration would not occur much later,
+and in the case of the Mourning Warbler adult males are rare in all
+three samples, extending over a considerable period and reaching late
+into the probable migration period of the species. It is interesting
+to conjecture just when and where adult male Mourning Warblers do
+migrate in autumn. Brewster (1886:16) wrote: "This species arrives at
+Cambridge [Massachusetts] about September 12, and during the remainder
+of the month is ... abundant.... The adults, however, are so very
+uncommon that I have never known them [to] represent more than five
+per cent of the total number of individuals. They do not seem to be
+more numerous in the earlier flights than towards the close of the
+month, and I am very sure that they cannot be found in this locality
+before the young begin to appear." While the present samples show an
+abundance of adult _females_ of this species (could Brewster have
+failed to recognize these as adults?) the whereabouts of the adult
+males remains a mystery.
+
+(b) Another variation is displayed by the Orange-crowned Warbler (Fig.
+1, H). Here also there is an increase of adults towards the end of
+migration, but this increase is marked by a growing percentage not of
+females but of males. Locally this species is a late migrant compared
+with most others of the Parulidae. Thus the first sample, composed of
+birds taken September 25-October 1, may be regarded as fairly early in
+the fall migration. Immature birds compose 84.2 per cent of this
+sample, there being no adult males at all. By October 5-9 the picture
+has changed markedly, the sample being composed of 44 per cent adults
+(82 per cent of which, in turn, are males) and 56 per cent immatures.
+In view of this trend one can not help suspecting that a still later
+sample would show a majority of adults, perhaps nearly all males. This
+of course does not necessarily follow; the migration of immatures
+could simply be more protracted, and could have commenced earlier,
+than that of adults.
+
+Little imagination is required to see how enlightening it might be
+could we analyze thoroughly the patterns of all migrating species.
+When the detailed facts are available, it seems likely that general
+trends will emerge which may be of great significance to the study of
+migration in general. A final point which must eventually be clarified
+is determination of the extent of variability in the pattern of each
+species from year to year and locality to locality.
+
+Once patterns of precedence in migration of different classes are
+established, search into the life-histories of the species concerned
+may help to explain the peculiarities discovered. In the present case,
+for instance, we find a possible clue to the reason for the high
+proportion of adult females of the Dickcissel late in migration, as
+shown by our sample. Gross (1921:14-15) presented evidence that adult
+female Dickcissels molt considerably later than their mates, and we
+have independent evidence that individuals of this species are at
+times almost flightless when molting the remiges!
+
+
+
+
+Molt in Relation to Migration
+
+
+GENERAL COMMENT.--The exact relationship between molt and migration
+seems not to have been definitely established. The subject has
+received cursory attention in the literature and conflicting opinions
+have been expressed. Dwight (1900:126-128) believed that molt is
+completed or nearly completed before migration in nearly all passerine
+species that occur in New York save for certain swallows and
+flycatchers. Molt has since been found to precede migration of at
+least one of the flycatchers (_Empidonax virescens_) considered by
+Dwight to be an exception to this rule (Mengel, 1952). In Great
+Britain the subject of molt in migration was considered in some detail
+by Rintoul and Baxter (1914) and Ticehurst (1916), who arrived at
+conclusions similar to Dwight's. These workers also found certain
+swallows to be exceptions to the rule.
+
+The above authors and others have shown that, at least among
+passerines, some body molt is frequently found in migrating
+individuals but that molt of tail feathers is much less often found
+and molt of remiges almost nonexistent. Baxter and Rintoul noted only
+four cases of molting wing feathers among hundreds of migrants. Among
+the diverse non-passerine orders the picture seems to be more
+complicated, as might be expected. We do not, however, comprehend the
+reasoning which led Meinertzhagen (1930:56) to summarize: "... on the
+whole it can be said that though birds seldom migrate when flight
+feathers are in quill, moult in general does not influence migration."
+This seems to us an obvious _non sequitur_. Meinertzhagen (_loc.
+cit._) went on to say: "Males and females of one species are believed
+to moult simultaneously [see, however, Dwight, 1900:127], and there is
+no doubt that in some cases the two sexes migrate at slightly
+different times, and occasionally prefer different winter quarters.
+Birds of the year never moult their quills previous to their first
+autumn migration [Consultation of Dwight, 1900, who gives many
+examples of this, would have spared Meinertzhagen this error.], and
+yet they frequently follow adults on passage and sometimes precede
+them. There are no grounds for believing that adults have moulted
+their quills before birds of the year are prepared to migrate [but
+there are, in many cases; _cf._ Dwight, 1900:127], in the case where
+adults precede the latter. Neither is there any evidence to show that
+adults have not moulted their quills till after their offspring are
+ready for passage, in the case where they follow their offspring. It
+does not, therefore, appear that moult is an important factor."
+
+Comments interpolated above show our feeling that this summary is
+inadequate and misleading. To us it seems that the extreme rarity in
+migration of birds with remiges in molt is strong evidence that molt
+_does_ influence at least the time of migration. It is immaterial
+whether this molt occurs before or after migration, although in the
+majority of cases it seems to take place before. Much more needs to be
+known of the migration pattern and molt of each species before
+generalizations can safely be made.
+
+Analysis of samples of migrants can show only the presence and nature
+or the absence of molt in birds actually migrating. In the present
+instance shortage of time and manpower for preserving some and
+processing all of the sample resulted in incomplete data being kept on
+molt. We include this section to emphasize uncertainties still
+prevalent and to stimulate further work.
+
+
+MOLT IN THE TOPEKA SAMPLE.--Our limited findings coincide with those
+of Rintoul and Baxter (1914). Body molt was noted in a number of
+individuals and species. When present, this molt almost invariably was
+in its final stages. One immature male Rose-breasted Grosbeak (October
+1) was in heavy body molt. It is perhaps worthy of mention here that
+this grosbeak evidently migrates at times in extensive molt. An adult
+male (RMM 1102) taken by Mengel near Henderson, Kentucky, on September
+9, 1949, was molting plumage of body, wings, and tail, no feather of
+the last being longer than one half inch. This remarkable specimen had
+only five primaries on one side and four on the other fully
+functional. The outermost on the left and two outermost on the right
+were from the previous plumage, not yet dropped; the three innermost
+of each wing were new and full-length.
+
+In the present sample molt of remiges was noted in one specimen, an
+adult female Indigo Bunting (October 1) with outer primaries sheathed
+and with molt in progress in the body plumage. The one (immature)
+Yellow-breasted Chat in the sample (October 1) had all of its tail
+feathers nearly full-length but in quill, possibly as a result of
+accident, and two feathers were being replaced also in the tail of an
+immature Clay-colored Sparrow (October 6), which was also in body molt
+and had some, juvenal feathers on the belly and flanks.
+
+Body molt near completion was further noted as follows: immature male
+Yellow-throated Vireo (October 1), adult male Blue-headed Vireo
+(October 1), immature female Leconte Sparrow (October 23), several
+Lincoln Sparrows (various dates).
+
+
+
+
+Size Differences according to Sex and Age
+
+
+LINEAR MEASUREMENTS.--Taxonomists long have recognized in many species
+that males differ in size from females. Less attention, until
+recently, has been paid to the relative sizes of adult and immature
+birds. Many taxonomists, however, seem to have had an uneasy suspicion
+that immature birds are "untrustworthy" in comparison with adults, and
+immatures have often been excluded from samples when recognizable.
+Since, however, there are still relatively few reliably aged specimens
+in collections, for the most part only those immature birds
+immediately recognizable as such by obvious plumage differences (which
+are often present only in juvenal plumage) have been excluded from
+series. The majority of birds in first winter plumage so closely
+resemble adults that the two ages have been included in series for
+measurement. In most passerines these younger birds still bear the
+juvenal feathers in wing and tail and are, in size of these important
+parts, quite as "untrustworthy" as birds still in juvenal body
+plumage. Even if a complete postjuvenal molt occurs we still should
+not assume that first winter feathers are as long as adult winter
+feathers without first determining that this is so. Although aware of
+this problem, systematists until recently seemingly have been more or
+less content to disregard it, or forced to do so for practical
+reasons. Miller (1941:179) had little choice but to hope that size
+differences between adult and immature juncos were unimportant. Behle
+(1942:217) wrote of Horned Larks, _Eremophila alpestris_: "... the
+plumages of first-year birds and adults seem indistinguishable, though
+I have never quite satisfied myself that there are no differences in
+lengths of rectrices and remiges." He added, with logic confusing to
+us: "Since it is a difficult problem to determine the ages of horned
+larks that have passed the postjuvenal molt, this similarity of
+plumages is fortunate for the systematist."
+
+In recent years, some workers have analyzed size differences between
+adults and immatures. Sibley (1950:115) showed that adult Red-eyed
+Towhees (_Pipilo erythrophthalmus_) had notably longer wings and tails
+than immatures, and the same was demonstrated in Red Crossbills
+(_Loxia curvirostra_) by Tordoff (1952). In work with jays
+(_Aphelocoma_), Pitelka (1951:199) found that: "... in comparisons of
+dimensions of sex and age groups within a given sample, although
+magnitude of difference varies from one character to another, most of
+the averages are successively smaller for first-year males and adult
+and first-year females." He listed exceptions and concluded:
+"Segregation [of sex and age classes] has proved to be of extreme
+significance in an interpretation of individual and geographic
+variation."
+
+Much along these lines can be learned by examination of large random
+samples such as that afforded by the Topeka accident. Although only a
+few species in this sample were measured, the results secured seem to
+show further the need for segregation of age classes in taxonomic work
+with some species.
+
+Figure 2 shows the variation in the lengths of wing and tail in the
+Nashville Warbler. It is evident from the figure that in both of these
+characters the four sex- and age-classes differ significantly. An
+accurate idea of geographic variation in this species could not be
+obtained without separating these classes in comparisons. Age classes
+in spring and summer, long after the skull is completely ossified, can
+be segregated only if differences in plumage can be found. In the
+Nashville Warbler, such differences occur in fall (see annotated list)
+but these probably are obliterated by the partial prenuptial molt.
+These facts emphasize the importance, for taxonomic studies, of aged
+specimens collected in late summer or early fall on their breeding
+ground and in fresh winter plumage. Figure 3 shows the variation in
+length of wing in the Lincoln Sparrow in which age seems to be of much
+less importance than in the Nashville Warbler. Males and females of
+the Lincoln Sparrow differ significantly in wing-length, but adults
+and immatures are of nearly the same size. It would seemingly not be
+necessary to separate age classes in studies of geographic variation
+in the Lincoln Sparrow. Size data for some other species are given in
+the annotated list.
+
+
+WEIGHTS.--Little seems to have been done to determine the correlation
+of weights with sex- and age-classes. Weight may be the best single
+index of over-all size and is especially useful to students of the
+physiology of migration. Weight, however, is subject to the
+considerable variable imposed by fat condition. In large and
+comparable series, this variable is probably removed insofar as
+comparability of means is concerned, but the high variability of
+weight in most cases naturally results in more overlap (less
+separability) between populations with means close together than is
+found with most linear measurements.
+
+[Illustration: FIG. 2. Statistics of variation in length of wing and
+tail in the Nashville Warbler. The solid lines represent the observed
+ranges in millimeters. The stippled boxes represent two standard
+errors ([Greek: s]m) to each side of the means (vertical lines). The
+open boxes represent one standard deviation ([Greek: s]) to each side
+of the means.]
+
+[Illustration: FIG. 3. Statistics of variation in length of wing in
+the Lincoln Sparrow.]
+
+Figures 4-6 show variation in weight in the samples of Nashville
+Warbler, Mourning Warbler, Yellow-throat, Dickcissel, and Lincoln
+Sparrow. Each figure is essentially self-explanatory. It will be seen
+that in the Nashville Warbler and Lincoln Sparrow, weight is roughly
+proportional to wing-length (shown in figs. 2 and 3), giving about
+equally good separation of sex- and age-classes in the latter and
+poorer separation in the former. Data for these and other species
+indicate a generally greater weight of males than of females, but less
+difference according to age. In some other species, for example the
+Yellow-throat, immatures seem to be a little heavier on the average
+than adults. It is unfortunate that wing-lengths are not at present
+available for these.
+
+[Illustration: FIG. 4. Statistics of variation in weight in the
+Nashville Warbler and Mourning Warbler.]
+
+[Illustration: FIG. 5. Statistics of variation in weight in the
+Yellow-throat and Dickcissel.]
+
+[Illustration: FIG. 6. Statistics of variation in weight in the
+Lincoln Sparrow.]
+
+These comments on weight suggest an additional factor which may play a
+part in rate of migration and which some day may be profitably
+studied. Suppose that in some species adults and immatures are nearly
+the same in weight but that immatures have shorter wings. In such a
+species the immatures are relatively shorter-winged for their weight
+than adults. In aerodynamic terms, they would have a higher
+"wing-loading." (Wing-loading is the result obtained by dividing area
+of effective wing by total weight; it is here assumed that in a single
+species wing area is directly proportional to wing length.) This being
+the case, immatures with higher "wing-loading" would require more
+energy (derived from fat) to fly the same distance as adults, or with
+the same amount of fat they would fly a shorter distance. Thus they
+might tend to be outstripped in migration by adults starting at the
+same time. The reverse, of course, would also be theoretically true,
+if adults possessed a higher wing-loading than immatures. Physical
+factors such as these rather than the differential "virility"
+postulated by Meinertzhagen (1930:56) might account for the arrival of
+certain classes of some species on the wintering grounds in advance of
+others. There are, of course, many other factors which must be taken
+into account before the effect, if any, of the wing-loading factor can
+be evaluated. Data for illuminating calculations will become
+available, however, with the accumulation of abundant information on
+weights, measurements, and migration patterns.
+
+
+
+
+Computations of Longevity and Survival
+
+
+Tanner (ms., and letter, April 21, 1955) recently devoted considerable
+ingenuity to computing by actuarial methods the longevity of the
+Oven-bird, using the adult-immature ratio in samples killed at a
+ceilometer at Knoxville, Tennessee. Tanner's computations were based
+on the simple assumption that
+
+S (survival rate) = Number of adults in population (or sample) / Total
+size of population (or sample).
+
+Further application of such techniques may prove desirable and
+rewarding. It would seem at present, however, to be a risky procedure,
+as it has been abundantly shown (see above) that adults and immatures
+often do not migrate at the same times and rates, and the ratios of
+adults to immatures in samples of migrants are likely to be far from
+representative of the true proportions in the populations concerned.
+It should be added that Tanner is perfectly aware of this objection.
+
+
+
+
+Processing of Samples
+
+
+Thorough processing of large samples of birds killed accidentally is
+time-consuming. We were fortunate in having considerable assistance;
+even so, all desirable data could not be obtained from the 1090 birds
+of the present sample. As aids to others conducting studies of this
+kind we should mention a few points which may be of assistance.
+
+Birds should be picked up as soon as possible after death, certainly
+by the end of the day after the accident and preferably much sooner.
+They should be weighed as soon as possible after collection (weights
+decrease rapidly, even under refrigeration), and the weights (in
+grams, to one tenth of a gram) written on tags attached to a leg of
+each specimen. The sample should then be sorted by species or groups
+of species of approximately equal size (to avoid crushing of smaller
+birds by larger ones), placed in boxes, paper bags, or better,
+air-tight containers clearly marked with date, locality, and other
+necessary particulars, and relegated to a deep-freeze compartment. For
+all but the smallest samples, such freezing units are indispensable to
+complete study. Once frozen, the birds may be selected for study at
+leisure, but time is still important, as, even when frozen, gonads may
+eventually deteriorate, and birds eventually become desiccated which
+is a disadvantage if skins are to be made.
+
+In the cases of large kills, or limited manpower, or both, it may be
+impossible to process all birds, however desirable this might be. If
+possible, however, all should be collected, identified, the numbers
+and species recorded, and rarities saved. Further, partial analysis,
+or more properly, complete analysis of a partial sample, can be made.
+Analyses which for any reason require randomness of sample pose a
+special problem. We think that in very large kills the best way to
+solve this problem is probably to make one or more transects across
+the area where dead birds are found. These transects should cross both
+the areas of greatest and least density (to allow for fast and slow
+flying species). Their width may be adjusted to give the desired
+number of birds, that is, the number that can be adequately processed.
+Another alternative would be to decide to study certain abundant
+species and pick up all of these. There are other possibilities, but
+in any event the method of sampling should be thoroughly described
+wherever all birds have not been processed.
+
+
+
+
+Summary
+
+
+The foregoing paper discusses accidents in which large numbers of
+night-migrating birds are killed. A brief historical review of
+ornithological interest in such occurrences is given, and the types of
+data provided by the accidents are listed and discussed. In
+particular, recent accidents occurring in early October, 1954, through
+much of eastern United States are cited, and detailed analysis is
+presented of a sample of 1090 birds killed one mile west of Topeka,
+Shawnee County, Kansas, between September 25 and October 23, 1954.
+
+At Topeka during the period mentioned, 1090 birds representing 61
+species were collected and were processed at the University of Kansas.
+For all specimens, weight, sex, age, and fat condition were recorded,
+and certain species were measured as well. Some notes on molt were
+taken. A total of 193 birds was preserved as study skins, and 49 as
+skeletons. Comments on weight, size, sex, age, subspecific identity,
+and status in Kansas are presented in an annotated list.
+
+Randomness of this and other similar samples is discussed. A
+theoretical computation is given for several nights of the numbers of
+migrants passing through a plane one mile in width, from 450 to 950
+feet above ground level, and oriented to face the arriving migrants.
+The computed totals give some idea of the tremendous volume of
+nocturnal migration under some conditions. Potentialities of further
+study of such events are discussed and a comparison is made with lunar
+observations.
+
+Differential migration of sex- and age-groups as shown by the larger
+samples taken at Topeka (Catbird, Red-eyed Vireo, Nashville Warbler,
+Yellow-throat, Mourning Warbler, Dickcissel, Lincoln Sparrow) is
+discussed and the history of theories on this subject reviewed. It is
+shown that age and sex must both be taken into account in studies of
+differential migration. Several patterns of migration are displayed by
+the species analyzed, adults migrating earlier than immatures in some
+instances, young earlier than adults in others, but all seemingly
+being complicated to varying degrees by differential migration of
+sexes within age groups. It is suggested that explanations of these
+patterns may be sought in the life histories of the species involved.
+
+Molt in relation to migration is discussed briefly, and it is held
+that there is an important relationship between molt and time of
+migration. Specimens noted to be in molt are listed.
+
+Size differences, in wing length, tail length, and weight are
+discussed in relation to sex and age, and variation in one or more of
+these characters is analyzed as found in the Topeka samples of
+Nashville Warbler, Mourning Warbler, Yellow-throat, Dickcissel, and
+Lincoln Sparrow. It seems that in some instances significant size
+differences prevail between adults and immatures and that these age
+classes should be separated in taxonomic work with species where
+differences in size are known to exist. When the facts are not known
+they should be determined, and the large samples collected in
+accidents to nocturnal migrants present excellent opportunities for
+ascertaining the facts.
+
+Other uses of material obtained in large migration accidents are
+discussed, such as computations of longevity and the problems of
+processing large, accidentally-killed samples. Care should be taken to
+select samples as nearly random as possible when all birds cannot be
+processed.
+
+Repeated and thorough analysis of accidental kills should provide a
+mass of valuable data bearing on many questions and problems which
+have thus far been little studied.
+
+
+
+
+Literature Cited
+
+
+ALLEN, J. A.
+
+     1880. Destruction of birds by light-houses. Bull. Nuttall
+     Orn. Club, 5(3):131-138, July.
+
+     1896. Gätke's 'Heligoland.' Auk, 13(2):137-153, April.
+
+     1901. Barrington's 'The Migration of Birds at Irish Light
+     Stations.' [Review.] Auk, 18(2):205-206, April.
+
+     1909. An American's views of bird migration. Brit. Birds,
+     3(1):12-19, June 1.
+
+BARRINGTON, R. M.
+
+     1900. The migration of birds as observed at Irish
+     lighthouses and lightships [_etc._]. London, R. H. Porter;
+     Dublin, Edward Ponsonby. Pp. XXV, 285, 667. (Not seen;
+     citation from Mullens and Swann, Bibliogr. Brit. Orn., 1917,
+     p. 43 and Zimmer, Cat. Ayer Coll., I, p. 40, 1926; see also
+     reviews, Ibis, 1900:677-679, Auk, 1901:205-206; some sources
+     list pagination as XXV + 667, possibly in error.)
+
+BEHLE, W. H.
+
+     1942. Distribution and variation of the Horned Larks
+     (Otocoris alpestris) of western North America. Univ.
+     California Publ. Zoöl., 46(3):205-316, May 20.
+
+     1950. Clines in the Yellow-throats of western North America.
+     Condor, 52(5):193-219, September-October (September 25).
+
+BREWSTER, W.
+
+     1886. Bird migration. Mem. Nuttall Orn. Club, No. I, pp.
+     1-22, Cambridge, March.
+
+CARSON, L. B.
+
+     1954a. [Destruction of birds at a television tower at
+     Topeka, Kansas.] Topeka Aud. News, 9(1):pp. = 1-2, July,
+     August, September [published October]. [Unsigned, unpaged,
+     and untitled article by L. B. Carson, ed.]
+
+     1954b. [Further destruction of birds at a television tower
+     at Topeka, Kansas.] Topeka Aud. News, 9(2):pp. = 5-7,
+     October, November, December [published December]. [Unsigned,
+     unpaged, and untitled article by L. B. Carson, ed.]
+
+     1954c. New records for fall migrants in eastern Kansas.
+     Kansas Orn. Soc. Bull., 5(4):27-29, December.
+
+DIXON, C.
+
+     1892. The migration of birds. London, Chapman and Hall. Pp.
+     XVI + 300.
+
+DOBBEN, W. W. H. VAN, and M. F. BRUYNS
+
+     1939. Zug nach Alter und Geschlecht an niederländischen
+     Leuchttürmen. Ardea, 28:61-79, December (not seen; see Auk,
+     1940:271).
+
+DROST, R.
+
+     1935. Ueber das Zahlenverhältnis von Alter und Geschlecht
+     auf dem Herbst-und Frühjahrszuge. Vogelzug, 6(4):177-182,
+     October.
+
+DWIGHT, J., JR.
+
+     1900. The sequence of plumages and moults of the passerine
+     birds of New York. Annals New York Acad. Sci., 13(1):73-360,
+     October 19.
+
+GANIER, A. F.
+
+     1949. The late summer Dickcissel departure. Migrant,
+     20(3):52-53, September.
+
+GÄTKE, H.
+
+     1895. Heligoland as an ornithological observatory.
+     Translated by Rudolph Rosenstock. Edinburgh, David Douglas.
+     Pp. X + II + 599 + 11 II. (advt.).
+
+GROSS, A. O.
+
+     1921. The Dickcissel (Spiza americana) of the Illinois
+     prairies. Auk, 38(1):1-26, January 18 (first of two parts).
+
+GURNEY, J. H.
+
+     1923. Bird migration as observed on the east coast of
+     England. Ibis, 11th ser., 5(4):573-603, October 3.
+
+HOWELL, J. C., LASKEY, A. R., and J. T. TANNER
+
+     1954. Bird mortality at airport ceilometers. Wilson Bull.,
+     66(3):207-215, September [published October 29].
+
+HOWELL, J. C., and J. T. TANNER
+
+     1951. An accident to migrating birds at the Knoxville
+     airport. Migrant, 22(4):61-62, December.
+
+LASKEY, A. R.
+
+     1951. Another disaster to migrating birds at the Nashville
+     airport. Migrant, 22(4):57-60, December.
+
+LONG, W. S.
+     1934. Notes from eastern Kansas. Auk, 51(2):255, April 4.
+
+1940. Check-list of Kansas birds. Trans. Kansas Acad. Sci.,
+43:433-456.
+
+LOVELL, H. B.
+
+     1952. Catastrophe to birds at a Louisville airport. Kentucky
+     Warbler, 28(1):5-6, February.
+
+LOWERY, G. H., JR.
+
+     1951. A quantitative study of the nocturnal migration of
+     birds. Univ. Kansas Publ., Mus. Nat. Hist., 3(2):361-472,
+     June 29.
+
+MCCABE, T. T.
+
+     1943. An aspect of collectors' technique. Auk,
+     60(4):550-558, October 7.
+
+MCCABE, T. T., and A. H. MILLER
+
+     1933. Geographic variation in the Northern Water-thrushes.
+     Condor, 35(5):192-197, September-October (September 15).
+
+MEINERTZHAGEN, R.
+
+     1930. Nicoll's birds of Egypt. Vol. I (of 2). London, Hugh
+     Rees Ltd. Pp. XVI + 348.
+
+MENGEL, R. M.
+
+     1952. Certain molts and plumages of Acadian and
+     Yellow-bellied flycatchers. Auk, 69(3):273-283, July 7.
+
+MILLER, A. H.
+
+     1941. Speciation in the avian genus Junco. Univ. California
+     Publ. Zoöl., 44(3):173-434, May 24.
+
+MILLER, A. H., and T. T. MCCABE
+
+     1935. Racial differentiation in Passerella (Melospiza)
+     lincolnii. Condor, 37(3):144-160, May-June (May 15).
+
+PALMÉN, J. A.
+
+     1876. Ueber die Zugstrassen der Vögel. Leipzig, Wilhelm
+     Engelmann. Pp. VI + 292 + I.
+
+PETERS, J. L., and L. GRISCOM
+
+     1938. Geographical variation in the Savannah Sparrow. Bull.
+     Mus. Comp. Zoöl., 80(13):445-478, January.
+
+PITELKA, F. A.
+
+     1946. Age in relation to migration in the Blue Jay. Auk,
+     63(1):82-84, January 25.
+
+     1951. Speciation and ecologic distribution in American jays
+     of the genus Aphelocoma. Univ. California Publ. Zoöl.,
+     50(3):195-464, July 20.
+
+RINTOUL, L. J., and E. V. BAXTER
+
+     1914. Notes on some passerine birds found migrating in
+     moult. Scottish Naturalist, no. 35, pp. 245-252, November.
+
+ROWAN, W.
+
+     1926. Notes on Alberta waders included on the British list.
+     Part II. Brit. Birds, 20(2):34-42, June 1.
+
+RUTH, E. L.
+
+     1952. The Bay-breasted Warbler in Kansas. Kansas Orn. Soc.
+     Bull., 3(3):18-19.
+
+SIBLEY, C. G.
+
+     1950. Species formation in the Red-eyed Towhees of Mexico.
+     Univ. California Publ. Zoöl., 50(2):109-194, November 24.
+
+SPOFFORD, W. R.
+
+     1949. Mortality of birds at the ceilometer of the Nashville
+     airport. Wilson Bull., 61(2):86-90, June.
+
+STONE, W.
+
+     1906. Some light on night migration. Auk, 23(3):249-252,
+     July.
+
+STORER, R. W.
+
+     1951. Variation in the Painted Bunting (_Passerina ciris_),
+     with special reference to wintering populations. Occas.
+     Papers Mus. Zool., Univ. Michigan, no. 532, pp. 1-12, June
+     29.
+
+THOMSON, A. L.
+
+     1926. Problems of bird-migration. Boston and New York,
+     Houghton Mifflin Company. Pp. XV + I + 350.
+
+     1936. Recent progress in the study of bird-migration: a
+     review of the literature, 1926-35. Ibis, 13th ser.,
+     6(3):472-530, July 1.
+
+TICEHURST, C. B.
+
+     1916. Notes on migrants and moult, with special reference to
+     the moults of some of our summer visitants. Scottish
+     Naturalist, no. 50, pp. 29-38, February.
+
+TORDOFF, H. B.
+
+     1952. Notes on plumages, molts, and age variation of the Red
+     Crossbill. Condor, 54(4):200-203, July-August.
+
+WIEGOLD, H.
+
+     1926. Masse, Gewichte und Zug nach Alter und Geschlecht bei
+     Helgoländer Zugvögeln. Wissenschaftliche
+     Meeresuntersuchungen, Abt. Helgoland, Neue Folge, 15ter
+     Band, Heft 3, No. 17, Lipsius & Tischer, Kiel und Leipzig,
+     pp. 1-73.
+
+WOLFSON, A.
+
+     1954. Weight and fat deposition in relation to spring
+     migration in transient White-throated Sparrows. Auk,
+     71(4):413-434.
+
+_Transmitted June 30, 1955._
+
+
+
+
+Transcriber's Notes:
+
+
+Words surrounded by _ are italicized.
+
+Small capitals are presented as all capitals in this e-text.
+
+Obvious printer's errors have been repaired, other inconsistent
+spellings have been kept, for example inconsistent use of hyphen (e.g.
+"age-classes" and "age classes") and diacritical mark (e.g. "Zool."
+and "Zoöl.").
+
+
+
+
+
+End of the Project Gutenberg EBook of Studies of Birds Killed in Nocturnal
+Migration, by Harrison B. Tordoff and Robert M. Mengel
+
+*** END OF THIS PROJECT GUTENBERG EBOOK STUDIES OF BIRDS ***
+
+***** This file should be named 52382-8.txt or 52382-8.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/5/2/3/8/52382/
+
+Produced by Judith Wirawan, Chris Curnow, Joseph Cooper
+and the Online Distributed Proofreading Team at
+http://www.pgdp.net
+
+
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for the eBooks, unless you receive
+specific permission. If you do not charge anything for copies of this
+eBook, complying with the rules is very easy. You may use this eBook
+for nearly any purpose such as creation of derivative works, reports,
+performances and research. They may be modified and printed and given
+away--you may do practically ANYTHING in the United States with eBooks
+not protected by U.S. copyright law. Redistribution is subject to the
+trademark license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country outside the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you'll have to check the laws of the country where you
+  are located before using this ebook.
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm web site
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that
+
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
+
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
+
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from both the Project Gutenberg Literary Archive Foundation and The
+Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
+trademark. Contact the Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org Section 3. Information about the Project Gutenberg
+Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's principal office is in Fairbanks, Alaska, with the
+mailing address: PO Box 750175, Fairbanks, AK 99775, but its
+volunteers and employees are scattered throughout numerous
+locations. Its business office is located at 809 North 1500 West, Salt
+Lake City, UT 84116, (801) 596-1887. Email contact links and up to
+date contact information can be found at the Foundation's web site and
+official page at www.gutenberg.org/contact
+
+For additional contact information:
+
+    Dr. Gregory B. Newby
+    Chief Executive and Director
+    gbnewby@pglaf.org
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg-tm electronic works.
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our Web site which has the main PG search
+facility: www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
